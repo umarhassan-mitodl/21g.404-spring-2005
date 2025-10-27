@@ -1,0 +1,57 @@
+{
+  "term": "Spring",
+  "year": "2005",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Language",
+      "German"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "International Literature"
+    ],
+    [
+      "Society",
+      "European and Russian Studies"
+    ],
+    [
+      "Fine Arts",
+      "Media Studies"
+    ]
+  ],
+  "legacy_uid": "d4ef8147-fd29-a595-f778-6ec17f9b0fa8",
+  "instructors": {
+    "content": [
+      "9cf54f6c-5845-45de-dc21-804b721c5aff"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "325168c9-5469-b56d-507d-b2d3fb6b71f2",
+    "website": "21g-404-german-iv-spring-2005"
+  },
+  "course_title": "German IV",
+  "course_description": "This course focuses on development of interpretive skills, using literary texts (B. Brecht, S. Zweig) and contemporary media texts (film, TV broadcasts, Web materials). The emphasis is on discussion and exploration of cultural topics in their current social, political, and historical context via hypermedia documentaries. It also covers further refinement of oral and written expression and expansion of communicative competence in practical everyday situations.\n",
+  "department_numbers": [
+    "21G"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21G.404",
+  "course_image_thumbnail": {
+    "content": "98cab688-c121-effa-1348-6cabd5748292",
+    "website": "21g-404-german-iv-spring-2005"
+  },
+  "learning_resource_types": [
+    "Exams with Solutions",
+    "Written Assignments with Examples"
+  ],
+  "site_uid": "b8f75879-c27a-4419-80cd-44cc6f5f88d0",
+  "site_short_id": "21g.404-spring-2005",
+  "site_url_path": "courses/21g-404-german-iv-spring-2005",
+  "title": "Course Metadata"
+}
